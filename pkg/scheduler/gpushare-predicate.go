@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/AliyunContainerService/gpushare-scheduler-extender/pkg/cache"
-	"github.com/AliyunContainerService/gpushare-scheduler-extender/pkg/utils"
+	"github.com/zhangyuguo/gpushare-scheduler-extender/pkg/cache"
+	"github.com/zhangyuguo/gpushare-scheduler-extender/pkg/utils"
 	"k8s.io/api/core/v1"
 	"k8s.io/client-go/kubernetes"
 )

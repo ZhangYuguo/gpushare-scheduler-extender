@@ -1,8 +1,8 @@
 package scheduler
 
 import (
-	"github.com/AliyunContainerService/gpushare-scheduler-extender/pkg/cache"
-	"github.com/AliyunContainerService/gpushare-scheduler-extender/pkg/utils"
+	"github.com/zhangyuguo/gpushare-scheduler-extender/pkg/cache"
+	"github.com/zhangyuguo/gpushare-scheduler-extender/pkg/utils"
 )
 
 func (in Inspect) Handler(name string) *Result {
